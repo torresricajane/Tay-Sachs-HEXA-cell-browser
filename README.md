@@ -115,22 +115,30 @@
 ### 10. Reflection
 
 **1. What does the UCSC Cell Browser show that the Genome Browser does not?**
-
-The UCSC Cell Browser shows where the HEXA gene is expressed in different cell types. The Genome Browser mainly shows the gene's location, structure, and variants.
+- The UCSC Cell Browser shows where the HEXA gene is expressed in different cell types. The Genome Browser mainly shows the gene's location, structure, and variants.
 
 **2. What did you notice about HEXA expression across different cell types?**
-
-I noticed that HEXA expression was different across the cell types in the Adult Cortex Meta-Atlas. Some cell types showed more detectable expression, while others showed little or no detectable expression.
+- I noticed that HEXA expression was different across the cell types in the Adult Cortex Meta-Atlas. Some cell types showed more detectable expression, while others showed little or no detectable expression.
 
 **3. Why should low or undetected expression be interpreted carefully?**
-
-Low or undetected expression does not always mean that the gene is not important. Expression can depend on the tissue, cell type, samples, and methods used in the dataset.
+- Low or undetected expression does not always mean that the gene is not important. Expression can depend on the tissue, cell type, samples, and methods used in the dataset.
 
 **4. How does combining genomic, variant, and expression information improve your understanding?**
-
-Combining the Genome Browser, ClinVar, and Cell Browser gives a better understanding of HEXA. The Genome Browser shows the gene's location and structure, ClinVar provides information about the disease-associated variant, and the Cell Browser shows where the gene is expressed.
+- Combining the Genome Browser, ClinVar, and Cell Browser gives a better understanding of HEXA. The Genome Browser shows the gene's location and structure, ClinVar provides information about the disease-associated variant, and the Cell Browser shows where the gene is expressed.
 
 **5. What was the most interesting observation you made in this activity?**
+- The most interesting observation for me was that HEXA was expressed at different levels across the brain cell types. This helped me understand that a disease-associated gene does not necessarily have to be a specific marker for only one cell type.
 
-The most interesting observation for me was that HEXA was expressed at different levels across the brain cell types. This helped me understand that a disease-associated gene does not necessarily have to be a specific marker for only one cell type.
+### 11. References and Links
 
+UCSC Cell browser. (n.d.-a). https://cells.ucsc.edu/?ds=adult-ctx-meta-atlas&gene=HEXA 
+
+UCSC Cell browser. (n.d.-b). https://cells.ucsc.edu/?ds=adult-ctx-meta-atlas 
+
+UCSC Cell browser. (n.d.-c). https://cells.ucsc.edu/?ds=adult-ctx-meta-atlas&gene=HEXA&exprGene=HEXA&exprMeta=Class 
+
+UCSC Genome Browser Home. (n.d.). https://genome.ucsc.edu/cgi-bin/hgSearch?search=hexa&db=hg38 
+
+U.S. National Library of Medicine. (n.d.). VCV000003889.224 - clinvar - NCBI. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/clinvar/variation/3889/
+
+UCSC Cell browser. UCSC Cell Browser. (n.d.). https://cells.ucsc.edu/ 
