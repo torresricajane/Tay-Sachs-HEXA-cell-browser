@@ -53,8 +53,22 @@
 | **b. Another cell type/cluster with detectable expression** | L4 IT |
 | **c. Cell type/cluster with relatively low or undetected expression** | L5/6 IT Car3 |
 | **d. Is the expression pattern broad or cell-type restricted?** | Relatively cell-type restricted |
-| **e. Biological explanation** | Based on the selected Adult Cortex Meta-Atlas dataset, HEXA expression appears at different levels across the brain cell clusters. The stronger visible expression in some cortical clusters and lower expression in other clusters suggests that HEXA expression varies among cell types in this dataset. |
+| **e. Biological explanation** | Based on the selected Adult Cortex Meta-Atlas dataset, the HEXA expression appears at different levels across the brain cell clusters. The stronger visible expression in some cortical clusters and lower expression in other clusters suggests that HEXA expression varies among cell types in this dataset. |
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/55faf090-19a0-440e-a60b-29f46d419f4f" />
 
 **Figure 3.** HEXA gene expression map of the Adult Cortex Meta-Atlas showing differences in expression across major annotated cell clusters, including IT, L4 IT, L5 ET, Oligodendrocyte, Astrocyte, Microglia, and other cortical cell populations.
+
+### 6. Expression Plot
+
+| **Part** | **Answer** |
+|---|---|
+| **a. Selected cell type/cluster** | IT |
+| **b. Expression compared with other cell types** | IT shows detectable HEXA expression, with an average expression of 0.16 and about 29% of IT cells showing non-zero expression. |
+| **c. What does the plot add beyond the UMAP?** | The expression plot gives a clearer comparison of HEXA expression between different cell types. It shows both the average expression level and the percentage of cells with detectable expression. |
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/35e8bbbd-ea59-4727-b6da-860d93d5b450" />
+
+**Figure 4.** Dot plot showing HEXA gene expression across different cell types in the Adult Cortex Meta-Atlas, with color indicating average expression and dot size representing the percentage of cells with detectable expression.
+
+
