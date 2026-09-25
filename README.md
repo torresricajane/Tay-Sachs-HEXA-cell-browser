@@ -64,7 +64,7 @@
 | **Part** | **Answer** |
 |---|---|
 | **a. Selected cell type/cluster** | IT |
-| **b. Expression compared with other cell types** | IT shows detectable HEXA expression, with an average expression of 0.16 and about 29% of IT cells showing non-zero expression. |
+| **b. Expression compared with other cell types** | IT shows detectable HEXA expression, with an average expression of 0.16 and about 29% of IT cells showing non-zero expression. Compared with the other cell types shown in the dot plot, HEXA expression varies between cell groups, with some groups such as VIP and SST showing slightly higher average expression than IT. |
 | **c. What does the plot add beyond the UMAP?** | The expression plot gives a clearer comparison of HEXA expression between different cell types. It shows both the average expression level and the percentage of cells with detectable expression. |
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/35e8bbbd-ea59-4727-b6da-860d93d5b450" />
